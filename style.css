@@ -1,7 +1,6 @@
 body {
     background-color: rgb(45, 92, 180);
     color: cornsilk;
-    text-align-last: center;
 
 }
 main {
@@ -12,7 +11,7 @@ main {
     width: 500px;
     height: 300px;
     margin: auto;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 3px 5px 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
